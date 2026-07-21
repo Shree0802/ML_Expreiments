@@ -1,6 +1,6 @@
 # Python Libraries
 
-This repository contains my learning resources and notes for Python libraries used in Data Science, Machine Learning, and Deep Learning.
+This Folder contains my learning resources and notes for Python libraries used in Data Science, Machine Learning, and Deep Learning.
 
 ## Libraries Included
 
